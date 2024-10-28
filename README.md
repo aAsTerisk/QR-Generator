@@ -1,2 +1,15 @@
-# QR-Generator
-This is a powerful and versatile command-line tool for creating and managing QR codes, designed for Linux users who want a quick and efficient way to generate, view, and save QR codes directly from the terminal. It’s perfect for developers, sysadmins, and anyone who needs to work with QR codes in an offline, secure environment.
+# QR Code Generator and Scanner CLI Tool
+
+This is a command-line tool for creating, viewing, and saving QR codes. 
+
+## Features
+- Generate and save QR codes as `.png` or `.jpg`.
+- Display QR codes as ASCII in the terminal.
+- Offline functionality for secure usage.
+
+## Installation
+Clone the repository and install dependencies:
+```bash
+git clone https://github.com/aAsTerisk/QR-Generator.git
+cd QR-Generator
+pip install -r requirements.txt
