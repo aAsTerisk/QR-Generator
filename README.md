@@ -11,6 +11,7 @@ This is a command-line tool for creating, viewing, and saving QR codes.
 Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/aAsTerisk/QR-Generator.git
+sudo apt install python3 python3-pip
 cd QR-Generator
 pip install -r requirements.txt
 ./Asterisk.py
