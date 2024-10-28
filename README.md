@@ -13,3 +13,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/aAsTerisk/QR-Generator.git
 cd QR-Generator
 pip install -r requirements.txt
+./Asterisk.py
