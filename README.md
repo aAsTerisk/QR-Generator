@@ -15,3 +15,4 @@ sudo apt install python3 python3-pip
 cd QR-Generator
 pip install -r requirements.txt
 ./Asterisk.py
+![Github](https://github.com/user-attachments/assets/00b5b7ca-d7cc-4a7a-b17e-5efe33301620)
